@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Meziou
+- 👋 Hi, I’m @Chems
 - 👀 I’m interested in Web developement 
 - 🌱 I’m currently learning Full Stack Web Development
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/chems-meziou/
