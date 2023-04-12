@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Meziou
 - 👀 I’m interested in Web developement 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Full Stack Web Development
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/chems-meziou/
 
 <!---
